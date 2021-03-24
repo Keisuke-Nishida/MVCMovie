@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using MvcMovie.Data;
 using MvcMovie.Models;
 
+
 namespace MvcMovie.Controllers
 {
     public class MoviesController : Controller
@@ -17,6 +18,18 @@ namespace MvcMovie.Controllers
         public MoviesController(MvcMovieContext context)
         {
             _context = context;
+        }
+
+        public async Task<ActionResult> ShowModal(int? id)
+        {
+            //何かしらの処理を記述
+            //今回はボタンから取得したIDに紐づくのユーザー情報を取得
+            var Movies = await _context.Movie.FirstOrDefaultAsync(m => m.Id == id);
+
+            //呼び出したいモダール用のViewを指定（①で作ったもの）
+            //渡したいデータは第二引数とする
+            return PartialView("Index", Movies);
+
         }
 
         // GET: Movies
