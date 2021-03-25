@@ -2,7 +2,6 @@ C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\appsettings.json
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\MvcMovie.exe
-C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cache
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.RazorAssemblyInfo.cs
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.AssemblyInfoInputs.cache
@@ -177,3 +176,5 @@ C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Edit.cshtml.g.cs
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
 C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csprojAssemblyReference.cache
+C:\Users\keisuke.nishida\source\repos\MvcMovie\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Modal.cshtml.g.cs
