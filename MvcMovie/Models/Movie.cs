@@ -24,6 +24,9 @@ namespace MvcMovie.Models
         [StringLength(30)]
         public string Genre { get; set; }
 
-        
+     
+        [Required]
+        public string Explain { get; set; }
+
     }
 }
